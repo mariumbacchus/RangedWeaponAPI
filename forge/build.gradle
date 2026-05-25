@@ -26,6 +26,12 @@ configurations {
     }
 }
 
+loom {
+    forge {
+        mixinConfig "ranged_weapon_api.mixins.json"
+    }
+}
+
 repositories {
     maven {
         name = 'NeoForged'
