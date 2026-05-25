@@ -10,6 +10,7 @@ displayName = "RangedWeaponAPI"
 authors = "Daedelus"
 description = '''
 Allows creating bows and crossbows, with just a few lines of code.
+1.20.1 Forge patch made by Marium.
 '''
 
 [[dependencies.ranged_weapon_api]]
