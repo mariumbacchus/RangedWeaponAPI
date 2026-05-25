@@ -96,7 +96,7 @@ Registry.register(
 );
 ```
 
-Check out the [example mod](src/testmod/java/net/testmod/TestMod.java).
+Check out the [example mod](fabric/src/testmod/java/net/testmod/TestMod.java).
 
 ## Include or depend
 
